@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+#clock {
+  font-size: 6rem;
+  font-weight: bolder;
+}
